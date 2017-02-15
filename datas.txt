@@ -1,0 +1,12 @@
+f0 sto 20 6
+f1 sto 21 1
+f2 sto 22 1
+f3 mul 21 21 20
+f4 sub 20 20 22
+f7 mul 21 21 20
+f8 sub 20 20 22
+f9 mul 21 21 20
+f10 sub 20 20 22
+f11 mul 21 21 20
+f12 sub 20 20 22
+f6 out 21
